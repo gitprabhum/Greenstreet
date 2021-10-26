@@ -1,0 +1,49 @@
+﻿@model Greenstreet.Feature.Navigation.Models.Entities.GlobalNavigation.MenuFolder
+
+@if (Model != null)
+{
+<nav class="navigation visible-desktop">
+    <div class="container">
+        <div class="row">
+            <div class="span8">
+                <a href="#" class="main-menu-button">Navigation</a>
+                <!-- Begin Menu Container -->
+                <div class="megamenu_container">
+                    <div class="menu-sidebar-container">
+                        <ul id="menu-sidebar" class="main-menu">
+                            
+                            @foreach (var menuGroup in Model.MenuGroups)
+                            {
+                                if (menuGroup.MenuItems.Count() == 0 && @menuGroup.Link.Url != null)
+                                {
+                                    <li id="menu-item-6353"
+                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-6353">
+                                        <a href="@menuGroup.Link.Url">@menuGroup.Title</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li id="menu-item-1078"
+                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu-heading menu-item-1078">
+                                        <a href="#MegaMenuHeading">@menuGroup.Title</a>
+                                        <ul class="sub-menu">
+                                            @foreach (var menuItem in menuGroup.MenuItems)
+                                            {
+                                                <li id="menu-item-1089"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1089">
+                                                    <a href="@menuItem.Link.Url">@menuItem.Title</a>
+                                                </li>                                 
+                                            }
+                                        </ul>
+                                    </li>
+                                }
+                             }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="span4"></div>
+        </div>
+    </div>
+</nav>
+}

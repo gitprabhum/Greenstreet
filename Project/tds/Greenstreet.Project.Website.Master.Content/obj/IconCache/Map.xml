@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Data Items" ItemIcon="/temp/IconCache/Office/32x32/data.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home" ItemIcon="/temp/iconcache/office/32x32/home.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Brew Guides" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Classes" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Coffees" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/My Dummy" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Our Team" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Brew Guides/AeroPress Brewing Guide" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Brew Guides/Chemex Brewing Guide" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Coffees/Cupping" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Coffees/Roasting" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us/Awards" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Shop Coffee" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/About Us" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Our Team" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/dummy" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Sustainability" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Roasting" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes/Class Calendar" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/AeroPress Brewing Guide" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/Chemex Brewing Guide" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet" ItemIcon="/temp/IconCache/Office/32x32/earth2.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global" ItemIcon="/temp/iconcache/office/32x32/graph_star.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Brew Guides/FrenchPress Brewing Guide" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Classes/List" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Coffees/Sustainability" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us/Why Greenstreet" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Product Category" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Home/Product Category/Coffee" ItemIcon="/temp/iconcache/office/32x32/document_attachment.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings" ItemIcon="/temp/IconCache/Applications/16x16/gear.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation" ItemIcon="/temp/iconcache/office/32x32/folder_open.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation" ItemIcon="/temp/iconcache/office/32x32/folder_open.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/French Press Brew Guide" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes/Upcoming Classes" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Media" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Why Greenstreet" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Cupping" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+</ItemIconCache>

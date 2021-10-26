@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnownItemCache>
+  <KnownItems Configuration="Debug">
+    <Id Path="/sitecore/templates">3c1715fe-6a13-4fcf-845f-de308ba9741d</Id>
+    <Id Path="/sitecore/templates/GreenStreet">02982f36-6032-45bc-b2ca-7bb01b3a1dd1</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature">ddf5f73f-08a4-4975-a031-c98eda66b714</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation">527b7931-f386-47de-a9d5-c913a78ca05b</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types">d8f781f1-5f26-471f-ab82-1027bd9f14e0</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group">5fd88f0d-24ca-464e-8199-366e47dd01e4</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content">10e9e3ec-f02d-4f24-b3c0-0824538706b3</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Link">84454bc7-cee6-44ab-aacd-f6da53e0f90c</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Menu Items">1c2a1522-3710-40cc-8bdf-9fb675d4cb0d</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Title">1d330125-f58b-4554-aa95-f13bc65bde92</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/__Standard Values">cbc2057c-8e92-4d89-b412-54a46e72c9c5</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item">29a7eb5a-e795-4986-9493-e3026d326420</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content">c3277d57-7e55-4068-9b8f-b8981470a68b</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content/Link">bffcae47-f469-41dd-9e87-703a16f6d5d7</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content/Title">f10aca16-ef53-4ddf-ad1c-b2f6530f7037</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/__Standard Values">1f413c42-44b0-488f-8fe7-e89675e00b2f</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Folders">aa0d7510-727d-48ce-86a9-4ac23babbdc3</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder">659f2859-2ccc-4d7e-acd2-9f34f2e20386</Id>
+    <Id Path="/sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder/__Standard Values">a2fa1c72-c8f8-451a-aa8c-a6a90ef2316e</Id>
+    <Id Path="/sitecore/layout">eb2e4ffd-2761-4653-b052-26a64d385227</Id>
+    <Id Path="/sitecore/layout/Renderings">32566f0e-7686-45f1-a12f-d7260bd78bc3</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet">1c52f059-07aa-4b1b-97bb-fd54ea1e47ec</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Feature">686f1265-8d7f-4eeb-9bb6-4107f693c88d</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Feature/Navigation">ce248e19-7d74-4c28-91f4-c1ca6c11d0b7</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Feature/Navigation/Global Navigation">c5a0e2e7-37cd-426b-8aea-aa79f3f52073</Id>
+  </KnownItems>
+  <KnownItems Configuration="Release" />
+</KnownItemCache>

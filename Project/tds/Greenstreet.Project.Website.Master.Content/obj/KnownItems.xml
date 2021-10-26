@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnownItemCache>
+  <KnownItems Configuration="Debug">
+    <Id Path="/sitecore/content">0de95ae4-41ab-4d01-9eb0-67441b7c2450</Id>
+    <Id Path="/sitecore/content/GreenStreet">37152398-cd11-4060-9303-2a96a52b0dd3</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global">d8f37631-23e4-4562-9290-fae6734fa25e</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Data Items">9b4ee162-7874-4396-ad7f-d73b211b3f55</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home">f7dac4a9-6e79-4a57-b9d6-788ea542ec22</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings">4fc83d53-986f-4f58-9d0e-8ff49ae39bf3</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Brew Guides">8e296e89-debc-4eb9-b3ad-0f28087e6987</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Classes">91d1e208-b88e-48d7-9db5-59e803854510</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Coffees">aadf82ae-477e-4183-985d-9d2d49916eff</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/My Dummy">5ad80c5c-7c58-4868-89ff-d7275fb0aefc</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Our Team">c5e7f707-a757-4cfc-aa99-dc2d55109acc</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Product Category">036b68b9-3618-4167-9bc3-4fb1df96ce60</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation">87529d97-5682-4271-b1f6-8256edf13016</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Brew Guides/AeroPress Brewing Guide">2b8eb581-0eba-48a7-b5a4-0f949df9e593</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Brew Guides/Chemex Brewing Guide">331034b5-50f8-45a3-b9b7-72c414556b95</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Brew Guides/FrenchPress Brewing Guide">5bb67b7b-3c05-432b-8719-7074cbce8572</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Classes/List">46a8beda-e4ee-4f96-aa9c-1de1766b51e9</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Coffees/Cupping">9e5c6828-5640-48cc-8b4c-fb422bb7b954</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Coffees/Roasting">10355b09-a4be-487b-a6b6-aff6c71552e3</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Coffees/Sustainability">1772b31b-a57c-4500-a663-546f21f07bdb</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us">da9bad19-903f-4616-92cc-89f9d046b923</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Product Category/Coffee">5f3b19c0-2bd2-446e-933b-a1417d419105</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation">0974144c-3ac9-43d4-a566-7f9cc8c7a15c</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us/Awards">f0e88d47-f7ec-4f87-91d9-ea5cd237c2e1</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Home/Our Team/About Us/Why Greenstreet">47b0ff1c-f5de-4ecc-a98b-30bd7736105d</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Shop Coffee">f9da87a4-f79d-4d23-88b3-d5c066c093ac</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview">98f66b3e-2ab3-4c9c-9847-089e0f41f7dd</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy">e9be3a8a-474b-4a18-b11f-6aec835cab99</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes">8e8b3e49-b039-4e4d-85cb-7829e9aafead</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides">a288d886-3dbc-49f7-ade9-4c542a038a3d</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/About Us">eccd1ef6-1617-4d64-a891-f21e9629f234</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Our Team">01afa680-8b3c-4099-9713-455bd81a683b</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Why Greenstreet">57ba72aa-4919-476a-a85c-cef641020842</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/dummy">c6ee6f2e-922e-434f-b64b-e40dfaabb31e</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Overview/Media">27ed9412-f3ee-41e9-a749-dc75c1a262bf</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Sustainability">80ff5623-5f07-4cae-bc87-8ba05629988f</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Roasting">ba78e7af-96d7-4bf8-884a-25401160c963</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Cupping">17b4fda2-ee2b-47b8-acdd-9744e6db9e11</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes/Class Calendar">66191ed1-5521-4b7a-a9f9-a2f05bb47c2f</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Classes/Upcoming Classes">5d7ec8f0-808d-4ff7-bf1a-b3ab2c1f2931</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/AeroPress Brewing Guide">46cf2ba2-e52e-4371-b716-b91cfcea66fe</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/Chemex Brewing Guide">0963ce7e-b79f-4b04-a72d-1b9d67960020</Id>
+    <Id Path="/sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Brew Guides/French Press Brew Guide">3f91cb92-35f3-425d-a792-1b27ee998eb3</Id>
+  </KnownItems>
+</KnownItemCache>

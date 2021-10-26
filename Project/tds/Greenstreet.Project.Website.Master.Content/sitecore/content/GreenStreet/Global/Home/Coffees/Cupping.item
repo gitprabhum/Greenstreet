@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {9E5C6828-5640-48CC-8B4C-FB422BB7B954}
+database: master
+path: /sitecore/content/GreenStreet/Global/Home/Coffees/Cupping
+parent: {AADF82AE-477E-4183-985D-9D2D49916EFF}
+name: Cupping
+master: {00000000-0000-0000-0000-000000000000}
+template: {96EA47D7-D1FF-4CA2-A9EE-404302B0CE11}
+templatekey: Content Page New
+
+----version----
+language: en
+version: 1
+revision: d2f0cb26-0543-4b58-b80f-b9acb2e215df
+
+----field----
+field: {11937E6D-FB40-497A-B704-3FBC01151696}
+name: Title
+key: title
+content-length: 7
+
+Cupping
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20211025T111118Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d2f0cb26-0543-4b58-b80f-b9acb2e215df
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20211025T113522Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

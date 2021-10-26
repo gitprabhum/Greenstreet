@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KnownItemCache>
+  <KnownItems Configuration="Debug">
+    <Id Path="/sitecore/layout">eb2e4ffd-2761-4653-b052-26a64d385227</Id>
+    <Id Path="/sitecore/layout/Renderings">32566f0e-7686-45f1-a12f-d7260bd78bc3</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet">1c52f059-07aa-4b1b-97bb-fd54ea1e47ec</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Project">773180bd-ba24-4427-9538-970fae8a57f8</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Project/Layout">eba41ff3-0aeb-4a1c-9d76-396bea5e563b</Id>
+    <Id Path="/sitecore/layout/Renderings/GreenStreet/Project/Layout/Greenstreet Layout">ac0fc6e2-64c2-499e-b505-00e50e9e5fd4</Id>
+  </KnownItems>
+  <KnownItems Configuration="Release" />
+</KnownItemCache>

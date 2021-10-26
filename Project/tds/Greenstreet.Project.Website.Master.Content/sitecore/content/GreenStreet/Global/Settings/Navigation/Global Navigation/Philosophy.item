@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {E9BE3A8A-474B-4A18-B11F-6AEC835CAB99}
+database: master
+path: /sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy
+parent: {0974144C-3AC9-43D4-A566-7F9CC8C7A15C}
+name: Philosophy
+master: {00000000-0000-0000-0000-000000000000}
+template: {5FD88F0D-24CA-464E-8199-366E47DD01E4}
+templatekey: Menu Group
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 0888ca91-0428-455c-ab0b-f4a324978d67
+
+----field----
+field: {1C2A1522-3710-40CC-8BDF-9FB675D4CB0D}
+name: Menu Items
+key: menu items
+content-length: 116
+
+{17B4FDA2-EE2B-47B8-ACDD-9744E6DB9E11}|{BA78E7AF-96D7-4BF8-884A-25401160C963}|{80FF5623-5F07-4CAE-BC87-8BA05629988F}
+----field----
+field: {1D330125-F58B-4554-AA95-F13BC65BDE92}
+name: Title
+key: title
+content-length: 10
+
+Philosophy
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20211023T232458Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0888ca91-0428-455c-ab0b-f4a324978d67
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20211025T112206Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

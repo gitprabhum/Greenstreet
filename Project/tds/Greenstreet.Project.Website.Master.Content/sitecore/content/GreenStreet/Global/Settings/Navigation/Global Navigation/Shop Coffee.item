@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {F9DA87A4-F79D-4D23-88B3-D5C066C093AC}
+database: master
+path: /sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Shop Coffee
+parent: {0974144C-3AC9-43D4-A566-7F9CC8C7A15C}
+name: Shop Coffee
+master: {00000000-0000-0000-0000-000000000000}
+template: {5FD88F0D-24CA-464E-8199-366E47DD01E4}
+templatekey: Menu Group
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+-100
+----version----
+language: en
+version: 1
+revision: be23da1e-8385-4da1-ba29-66b260fd6919
+
+----field----
+field: {84454BC7-CEE6-44AB-AACD-F6DA53E0F90C}
+name: Link
+key: link
+content-length: 124
+
+<link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{5F3B19C0-2BD2-446E-933B-A1417D419105}" />
+----field----
+field: {1D330125-F58B-4554-AA95-F13BC65BDE92}
+name: Title
+key: title
+content-length: 11
+
+Shop Coffee
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20211023T232431Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+be23da1e-8385-4da1-ba29-66b260fd6919
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20211025T113820Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

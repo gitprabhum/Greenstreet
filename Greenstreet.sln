@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{627D524A-3EEC-4A62-ABFB-9FE570018025}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{AFA25D5C-96A5-4199-8EEF-0DF86D230721}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{5A88527A-76B7-402F-8CB5-7394DB12C302}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".tds", ".tds", "{585B43DF-537E-43C1-AAAE-74AB2EA3EE50}"
+	ProjectSection(SolutionItems) = preProject
+		TdsGlobal.config = TdsGlobal.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greenstreet.Feature.Navigation", "Feature\code\Greenstreet.Feature.Navigation.csproj", "{D53203A2-3E59-4DE4-ABD3-C4212302A400}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Greenstreet.Feature.Navigation.Master", "Feature\tds\Greenstreet.Feature.Navigation.Master\Greenstreet.Feature.Navigation.Master.scproj", "{6EACD0DF-B64B-4577-BFFD-F92708B3685E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greenstreet.Project.Website", "Project\Code\Greenstreet.Project.Website.csproj", "{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Greenstreet.Project.Website.Master", "Project\tds\Greenstreet.Project.Website.Master\Greenstreet.Project.Website.Master.scproj", "{388EA4F1-0233-4F5B-AB97-6597B800A10C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greenstreet.Foundation.Framework", "Foundation\Code\Greenstreet.Foundation.Framework.csproj", "{AFC56051-373B-4F4E-A829-E50A45465E63}"
+EndProject
+Project("{CAA73BB0-EF22-4D79-A57E-DF67B3BA9C80}") = "Greenstreet.Project.Website.Master.Content", "Project\tds\Greenstreet.Project.Website.Master.Content\Greenstreet.Project.Website.Master.Content.scproj", "{196E527A-6E4D-40ED-8508-8DFEF226C065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53203A2-3E59-4DE4-ABD3-C4212302A400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53203A2-3E59-4DE4-ABD3-C4212302A400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53203A2-3E59-4DE4-ABD3-C4212302A400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53203A2-3E59-4DE4-ABD3-C4212302A400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AFC56051-373B-4F4E-A829-E50A45465E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC56051-373B-4F4E-A829-E50A45465E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC56051-373B-4F4E-A829-E50A45465E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC56051-373B-4F4E-A829-E50A45465E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196E527A-6E4D-40ED-8508-8DFEF226C065}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D53203A2-3E59-4DE4-ABD3-C4212302A400} = {627D524A-3EEC-4A62-ABFB-9FE570018025}
+		{6EACD0DF-B64B-4577-BFFD-F92708B3685E} = {627D524A-3EEC-4A62-ABFB-9FE570018025}
+		{D96E22BA-FFFC-4483-9BEC-AC38A77E2CF8} = {5A88527A-76B7-402F-8CB5-7394DB12C302}
+		{388EA4F1-0233-4F5B-AB97-6597B800A10C} = {5A88527A-76B7-402F-8CB5-7394DB12C302}
+		{AFC56051-373B-4F4E-A829-E50A45465E63} = {AFA25D5C-96A5-4199-8EEF-0DF86D230721}
+		{196E527A-6E4D-40ED-8508-8DFEF226C065} = {5A88527A-76B7-402F-8CB5-7394DB12C302}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6541AF-DFFB-4C6C-8CD7-FE254D089AFF}
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Caching.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.ServiceBus.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.WindowsAzure.Storage.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.TransientFaultHandling.Configuration.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/templates" ItemIcon="/temp/IconCache/Applications/16x16/form_blue.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group" ItemIcon="/temp/IconCache/Office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Menu Items" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/elements_tree.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content/Link" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Title" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item" ItemIcon="/temp/IconCache/Office/32x32/element.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/element.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Item/Content/Title" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Folders" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder" ItemIcon="/temp/IconCache/office/32x32/folder_open.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder/__Standard Values" ItemIcon="/temp/iconcache/office/32x32/folder_open.png" />
+  <Item ItemPath="/sitecore/templates/GreenStreet/Feature/Navigation/Content Types/Menu Group/Content/Link" ItemIcon="/temp/iconcache/applications/32x32/document.png" />
+  <Item ItemPath="/sitecore/layout" ItemIcon="/temp/IconCache/Applications/16x16/windows.png" />
+  <Item ItemPath="/sitecore/layout/Renderings" ItemIcon="/temp/IconCache/Software/16x16/elements1.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/GreenStreet" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/GreenStreet/Feature" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/GreenStreet/Feature/Navigation" ItemIcon="/temp/iconcache/applications/16x16/folder.png" />
+  <Item ItemPath="/sitecore/layout/Renderings/GreenStreet/Feature/Navigation/Global Navigation" ItemIcon="/temp/IconCache/office/32x32/elements_tree.png" />
+</ItemIconCache>

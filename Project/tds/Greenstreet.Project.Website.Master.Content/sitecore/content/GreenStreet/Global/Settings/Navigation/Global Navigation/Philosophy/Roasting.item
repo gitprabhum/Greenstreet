@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {BA78E7AF-96D7-4BF8-884A-25401160C963}
+database: master
+path: /sitecore/content/GreenStreet/Global/Settings/Navigation/Global Navigation/Philosophy/Roasting
+parent: {E9BE3A8A-474B-4A18-B11F-6AEC835CAB99}
+name: Roasting
+master: {00000000-0000-0000-0000-000000000000}
+template: {29A7EB5A-E795-4986-9493-E3026D326420}
+templatekey: Menu Item
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: en
+version: 1
+revision: d8f6b95f-e74e-4125-8ff5-3f15c0d3536f
+
+----field----
+field: {BFFCAE47-F469-41DD-9E87-703A16F6D5D7}
+name: Link
+key: link
+content-length: 124
+
+<link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{10355B09-A4BE-487B-A6B6-AFF6C71552E3}" />
+----field----
+field: {F10ACA16-EF53-4DDF-AD1C-B2F6530F7037}
+name: Title
+key: title
+content-length: 8
+
+Roasting
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20211023T232759Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d8f6b95f-e74e-4125-8ff5-3f15c0d3536f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20211025T111759Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

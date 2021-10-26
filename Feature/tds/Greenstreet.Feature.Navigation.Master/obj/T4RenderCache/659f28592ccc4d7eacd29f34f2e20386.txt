@@ -1,0 +1,51 @@
+//Revision: 2407429b-bd4a-4e3e-8973-94d812316d51
+
+
+
+
+
+
+
+
+
+
+namespace Greenstreet.Feature.Navigation.Models.GreenStreet.Feature.Navigation.Folders
+{
+	/// <summary>
+	/// IMenuFolder Interface
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder</para>	
+	/// <para>ID: 659f2859-2ccc-4d7e-acd2-9f34f2e20386</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IMenuFolderConstants.TemplateIdString )] //, Cachable = true
+	public partial interface IMenuFolder : IGlassBase 
+	{
+	}
+
+	[ExcludeFromCodeCoverage]
+	public static partial class IMenuFolderConstants
+	{
+		public const string TemplateIdString = "659F2859-2CCC-4D7E-ACD2-9F34F2E20386";
+		public static readonly ID TemplateId = new ID(TemplateIdString);
+		public const string TemplateName = "Menu Folder";
+
+	}
+
+	/// <summary>
+	/// MenuFolder
+	/// <para></para>
+	/// <para>Path: /sitecore/templates/GreenStreet/Feature/Navigation/Folders/Menu Folder</para>	
+	/// <para>ID: 659f2859-2ccc-4d7e-acd2-9f34f2e20386</para>	
+	/// </summary>
+	[SitecoreType(TemplateId=IMenuFolderConstants.TemplateIdString)] //, Cachable = true
+	[ExcludeFromCodeCoverage]
+	public partial class MenuFolder  : GlassBase, IMenuFolder 
+	{
+		public MenuFolder () : base(){}
+
+		public MenuFolder (Guid id) : base(id){}
+
+
+    }
+}
+

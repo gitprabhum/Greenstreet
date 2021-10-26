@@ -1,0 +1,51 @@
+----item----
+version: 1
+id: {91D1E208-B88E-48D7-9DB5-59E803854510}
+database: master
+path: /sitecore/content/GreenStreet/Global/Home/Classes
+parent: {F7DAC4A9-6E79-4A57-B9D6-788EA542EC22}
+name: Classes
+master: {00000000-0000-0000-0000-000000000000}
+template: {96EA47D7-D1FF-4CA2-A9EE-404302B0CE11}
+templatekey: Content Page New
+
+----version----
+language: en
+version: 1
+revision: 1328c045-8b19-4455-8375-28e0f0604d72
+
+----field----
+field: {11937E6D-FB40-497A-B704-3FBC01151696}
+name: Title
+key: title
+content-length: 7
+
+Classes
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20211025T111142Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1328c045-8b19-4455-8375-28e0f0604d72
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20211025T113320Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
